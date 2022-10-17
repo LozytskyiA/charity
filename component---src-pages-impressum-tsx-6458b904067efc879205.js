@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcharity=self.webpackChunkcharity||[]).push([[524],{3606:function(n,e,t){t.d(e,{H:function(){return u.H}});var u=t(3549)},4567:function(n,e,t){t.r(e);var u=t(7294),r=t(5802),c=t(3606);e.default=function(){return"undefined"!=typeof window&&window.scrollTo(0,0),u.createElement(r.A,null,u.createElement(c.H,null))}}}]);
+//# sourceMappingURL=component---src-pages-impressum-tsx-6458b904067efc879205.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcharity=self.webpackChunkcharity||[]).push([[763],{9896:function(e,n,t){t.r(n);var l=t(7294),u=t(5802),c=t(3549);n.default=function(){return"undefined"!=typeof window&&window.scrollTo(0,0),l.createElement(u.A,null,l.createElement(c.H,null))}}}]);
+//# sourceMappingURL=component---src-pages-personal-data-tsx-5c0b3ba115a33309a12b.js.map

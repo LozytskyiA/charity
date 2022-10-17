@@ -1,0 +1,74 @@
+@font-face {
+  font-family: DMSansRegular;
+  src: url("../assets/fonts/DMSansRegular/DMSans-Regular.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: DMSansMedium;
+  src: url("../assets/fonts/DMSansMedium/DMSans-Medium.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: DMSansBold;
+  src: url("../assets/fonts/DMSansBold/DMSans-Bold.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: JostRegular;
+  src: url("../assets/fonts/JostRegular/Jost-Regular.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: JostMedium;
+  src: url("../assets/fonts/JostMedium/Jost-Medium.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: JostBold;
+  src: url("../assets/fonts/JostBold/Jost-Bold.ttf");
+  font-display: swap;
+}
+
+#___gatsby,
+#gatsby-focus-wrapper {
+  height: 100%;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box;
+  height: 100%;
+  font-family: "JostRegular";
+  font-weight: 400;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.swal2-styled.swal2-confirm {
+  background-color: #9e1d6f !important;
+  outline: none !important;
+  font-size: 16px !important;
+  font-family: DMSansBold !important;
+  border-radius: 999px !important;
+}
+.swal2-styled.swal2-confirm:focus {
+  box-shadow: none !important;
+}
+.swal2-title {
+  font-family: DMSansBold !important;
+  font-size: 27px !important;
+  color: #500942 !important;
+}
